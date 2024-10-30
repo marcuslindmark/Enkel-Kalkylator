@@ -1,0 +1,7 @@
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.AssemblyReference.cache
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe.config
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\bin\Debug\Kalkylator.pdb
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\obj\Debug\Kalkylator.exe
+C:\Development\Läsår 2024 - 2025\Programmering\C#\Kalkylator\Kalkylator\obj\Debug\Kalkylator.pdb
